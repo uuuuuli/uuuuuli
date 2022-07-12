@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **huangfuyouli/huangfuyouli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=huangfuyouli&show_icons=true&icon_color=00adb5&text_color=393e46&bg_color=00000000&hide_title=true&title_color=222831&hide_border=true" />
+
